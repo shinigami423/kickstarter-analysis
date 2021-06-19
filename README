@@ -9,11 +9,11 @@ Perform basic Excel functions to clean the data then create pivot tables and cha
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-! [] (resources/Outcomes Based on Launch Date.png)
+! [] (resources/Theater_Outcomes_vs_Launch.png)
 The pivot table labeled "Theater Outcomes by Launch Date" contains the counts of successful, failed, and canceled Kickstarters accross the months in year range of 2009-2017 under the "theater" category. It is created from the data found on the "Kickstarter" sheet. A line graph is created to show how successful the Kickstarters are when launched at a given time of the year.
 
 ### Analysis of Outcomes Based on Goals
-! [] (resources/Outcomes Based on Launch Date.png)
+! [] (resources/Outcomes_vs_Goals.png)
 Contrasting the outcomes based on launch dates, a table is setup to determine if Kickstarters can be more successful based on a range of goals. A line graph is created to show the percentage of sucess/failed/canceled Kickstarters based on the range of goals.
 
 ### Challenges and Difficulties Encountered
